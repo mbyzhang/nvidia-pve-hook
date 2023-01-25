@@ -36,3 +36,5 @@ elif [ "$ACTION" = "post-stop" ]; then
         fi
     done
 fi
+
+exit 0
